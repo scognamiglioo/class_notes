@@ -1,0 +1,14 @@
+C:\Users\wonuc\OneDrive\Área de Trabalho\aula\bin\Debug\net8.0\aula.exe
+C:\Users\wonuc\OneDrive\Área de Trabalho\aula\bin\Debug\net8.0\aula.deps.json
+C:\Users\wonuc\OneDrive\Área de Trabalho\aula\bin\Debug\net8.0\aula.runtimeconfig.json
+C:\Users\wonuc\OneDrive\Área de Trabalho\aula\bin\Debug\net8.0\aula.dll
+C:\Users\wonuc\OneDrive\Área de Trabalho\aula\bin\Debug\net8.0\aula.pdb
+C:\Users\wonuc\OneDrive\Área de Trabalho\aula\obj\Debug\net8.0\aula.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wonuc\OneDrive\Área de Trabalho\aula\obj\Debug\net8.0\aula.AssemblyInfoInputs.cache
+C:\Users\wonuc\OneDrive\Área de Trabalho\aula\obj\Debug\net8.0\aula.AssemblyInfo.cs
+C:\Users\wonuc\OneDrive\Área de Trabalho\aula\obj\Debug\net8.0\aula.csproj.CoreCompileInputs.cache
+C:\Users\wonuc\OneDrive\Área de Trabalho\aula\obj\Debug\net8.0\aula.dll
+C:\Users\wonuc\OneDrive\Área de Trabalho\aula\obj\Debug\net8.0\refint\aula.dll
+C:\Users\wonuc\OneDrive\Área de Trabalho\aula\obj\Debug\net8.0\aula.pdb
+C:\Users\wonuc\OneDrive\Área de Trabalho\aula\obj\Debug\net8.0\aula.genruntimeconfig.cache
+C:\Users\wonuc\OneDrive\Área de Trabalho\aula\obj\Debug\net8.0\ref\aula.dll
